@@ -28,30 +28,19 @@ Desarrollar una aplicación web que permita:
 - TypeScript para tipado estático
 - CSS Modules para estilos modulares
 
-### Mejoras Potenciales
-- Implementar tests unitarios
-- Agregar caché de peticiones
-- Mejorar la accesibilidad
-- Implementar lazy loading de imágenes
-
-## 🖥️ Capturas de Pantalla
-
-[Aquí irían las capturas de las principales funcionalidades]
-
 ## 👨‍💻 Desarrollador
 
-[Tu Nombre]
-- GitHub: [tu-usuario]
-- LinkedIn: [tu-perfil]
+Kevin Alejandro Claro Corrales
+- LinkedIn: www.linkedin.com/in/alejandro-developer12
 
 ## ⏱️ Tiempo de Desarrollo
 
-- Tiempo total: X horas
+- Tiempo total: 24 horas
 - Desglose:
-  - Configuración inicial: X horas
-  - Desarrollo de componentes: X horas
-  - Estilos y responsive: X horas
-  - Pruebas y ajustes: X horas
+  - Configuración inicial: 2 horas
+  - Desarrollo de componentes: 10 horas
+  - Estilos y responsive: 5 horas
+  - Pruebas y ajustes: 2 horas
 
 ## 📝 Notas Adicionales
 
