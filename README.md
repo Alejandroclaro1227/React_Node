@@ -3,6 +3,17 @@
 Aplicación web de películas desarrollada con React y TypeScript como parte de una prueba técnica.
 las imagenes tiene como nombre como (prueba) son 8 imagenes las puedes visualizar dentro del proyecto.
 
+
+## 🛠️ Tecnologías Utilizadas
+
+- React 18
+- TypeScript
+- CSS puro
+- Axios para peticiones HTTP
+- Font Awesome para iconos
+- API de TMDB (The Movie Database)
+
+
 ## 🎯 Objetivos del Proyecto
 
 Desarrollar una aplicación web que permita:
