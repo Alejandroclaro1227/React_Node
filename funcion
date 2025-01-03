@@ -1,0 +1,24 @@
+## 📋 Funcionalidades Implementadas
+
+### 1. Catálogo de Películas
+- Listado de películas populares
+- Paginación
+- Visualización en grid responsive
+
+### 2. Sistema de Búsqueda
+- Búsqueda por título
+- Filtrado por géneros
+- Resultados en tiempo real
+
+### 3. Gestión de Favoritos
+- Agregar/eliminar películas
+- Persistencia de datos
+- Visualización de favoritos
+
+### 4. Formulario de Registro
+- Validación de campos
+- Diseño moderno
+- Efectos visuales y animaciones
+
+
+
