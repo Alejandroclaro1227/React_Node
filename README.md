@@ -23,17 +23,6 @@ Desarrollar una aplicación web que permita:
 - Implementar un diseño responsive
 - Crear un formulario de registro
 
-## 🛠️ Tecnologías Utilizadas
-
-- React 18
-- TypeScript
-- CSS puro (sin frameworks)
-- Axios para peticiones HTTP
-- Font Awesome para iconos
-- API de TMDB (The Movie Database)
-
-## ⚙️ Instalación y Ejecución
-
 ### Patrones Utilizados
 - Context API para estado global
 - Componentes funcionales con Hooks
