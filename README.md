@@ -1,6 +1,7 @@
 # 🎬 Prueba Técnica - QuickBet Movies
 
 Aplicación web de películas desarrollada con React y TypeScript como parte de una prueba técnica.
+las imagenes tiene como nombre como (prueba) son 8 imagenes las puedes visualizar dentro del proyecto.
 
 ## 🎯 Objetivos del Proyecto
 
